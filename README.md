@@ -1,3 +1,5 @@
+Original repo: https://github.com/telegram-rs/telegram-bot
+
 Rust Telegram Bot Library
 =========================
 [![Build Status](https://img.shields.io/travis/telegram-rs/telegram-bot/master.svg)](https://travis-ci.org/telegram-rs/telegram-bot)
